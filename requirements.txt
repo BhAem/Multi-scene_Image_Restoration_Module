@@ -1,0 +1,8 @@
+colorama>=0.4.4
+numpy>=1.23.4
+Pillow>=9.3.0
+scikit_image>=0.19.2
+skimage>=0.0
+tensorboardX>=2.5.1
+torchsummary>=1.5.1
+tqdm>=4.64.0

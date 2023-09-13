@@ -1,0 +1,2002 @@
+[
+  [
+    "mydatasets/fog2day/label/00001.jpg",
+    "mydatasets/snow2day/image/00001.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00002.jpg",
+    "mydatasets/snow2day/image/00002.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00002_1.jpg",
+    "mydatasets/snow2day/image/00002_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00002_1_1.jpg",
+    "mydatasets/snow2day/image/00002_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00003.jpg",
+    "mydatasets/snow2day/image/00003.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (1).jpg",
+    "mydatasets/snow2day/image/000036_r (1).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (10).jpg",
+    "mydatasets/snow2day/image/000036_r (10).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (100).jpg",
+    "mydatasets/snow2day/image/000036_r (100).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (101).jpg",
+    "mydatasets/snow2day/image/000036_r (101).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (101)_1.jpg",
+    "mydatasets/snow2day/image/000036_r (101)_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (102).jpg",
+    "mydatasets/snow2day/image/000036_r (102).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (103).jpg",
+    "mydatasets/snow2day/image/000036_r (103).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (104).jpg",
+    "mydatasets/snow2day/image/000036_r (104).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (105).jpg",
+    "mydatasets/snow2day/image/000036_r (105).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (106).jpg",
+    "mydatasets/snow2day/image/000036_r (106).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (107).jpg",
+    "mydatasets/snow2day/image/000036_r (107).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (108).jpg",
+    "mydatasets/snow2day/image/000036_r (108).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (109).jpg",
+    "mydatasets/snow2day/image/000036_r (109).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (11).jpg",
+    "mydatasets/snow2day/image/000036_r (11).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (110).jpg",
+    "mydatasets/snow2day/image/000036_r (110).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (111).jpg",
+    "mydatasets/snow2day/image/000036_r (111).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (112).jpg",
+    "mydatasets/snow2day/image/000036_r (112).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (113).jpg",
+    "mydatasets/snow2day/image/000036_r (113).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (115).jpg",
+    "mydatasets/snow2day/image/000036_r (115).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (116)_1.jpg",
+    "mydatasets/snow2day/image/000036_r (116)_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (116)_1_1.jpg",
+    "mydatasets/snow2day/image/000036_r (116)_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (116)_1_1_1.jpg",
+    "mydatasets/snow2day/image/000036_r (116)_1_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (116)_1_3.jpg",
+    "mydatasets/snow2day/image/000036_r (116)_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (116)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (116)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (116)_3_1.jpg",
+    "mydatasets/snow2day/image/000036_r (116)_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (116)_3_1_3.jpg",
+    "mydatasets/snow2day/image/000036_r (116)_3_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (117).jpg",
+    "mydatasets/snow2day/image/000036_r (117).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (118).jpg",
+    "mydatasets/snow2day/image/000036_r (118).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (119).jpg",
+    "mydatasets/snow2day/image/000036_r (119).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (119)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (119)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (12).jpg",
+    "mydatasets/snow2day/image/000036_r (12).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (120).jpg",
+    "mydatasets/snow2day/image/000036_r (120).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (123).jpg",
+    "mydatasets/snow2day/image/000036_r (123).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (124).jpg",
+    "mydatasets/snow2day/image/000036_r (124).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (126).jpg",
+    "mydatasets/snow2day/image/000036_r (126).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (127).jpg",
+    "mydatasets/snow2day/image/000036_r (127).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (128).jpg",
+    "mydatasets/snow2day/image/000036_r (128).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (129).jpg",
+    "mydatasets/snow2day/image/000036_r (129).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (13).jpg",
+    "mydatasets/snow2day/image/000036_r (13).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (132).jpg",
+    "mydatasets/snow2day/image/000036_r (132).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (133).jpg",
+    "mydatasets/snow2day/image/000036_r (133).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (134).jpg",
+    "mydatasets/snow2day/image/000036_r (134).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (135).jpg",
+    "mydatasets/snow2day/image/000036_r (135).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (136).jpg",
+    "mydatasets/snow2day/image/000036_r (136).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (137).jpg",
+    "mydatasets/snow2day/image/000036_r (137).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (138).jpg",
+    "mydatasets/snow2day/image/000036_r (138).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (139).jpg",
+    "mydatasets/snow2day/image/000036_r (139).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (139)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (139)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (139)_3_3.jpg",
+    "mydatasets/snow2day/image/000036_r (139)_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (139)_3_3_1.jpg",
+    "mydatasets/snow2day/image/000036_r (139)_3_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (14).jpg",
+    "mydatasets/snow2day/image/000036_r (14).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (140).jpg",
+    "mydatasets/snow2day/image/000036_r (140).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (143).jpg",
+    "mydatasets/snow2day/image/000036_r (143).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (144).jpg",
+    "mydatasets/snow2day/image/000036_r (144).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (145).jpg",
+    "mydatasets/snow2day/image/000036_r (145).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (145)_1.jpg",
+    "mydatasets/snow2day/image/000036_r (145)_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (145)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (145)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (145)_3_3.jpg",
+    "mydatasets/snow2day/image/000036_r (145)_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (146).jpg",
+    "mydatasets/snow2day/image/000036_r (146).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (146)_1.jpg",
+    "mydatasets/snow2day/image/000036_r (146)_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (146)_1_1.jpg",
+    "mydatasets/snow2day/image/000036_r (146)_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (146)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (146)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (146)_3_1.jpg",
+    "mydatasets/snow2day/image/000036_r (146)_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (146)_3_1_1.jpg",
+    "mydatasets/snow2day/image/000036_r (146)_3_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (147).jpg",
+    "mydatasets/snow2day/image/000036_r (147).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (148).jpg",
+    "mydatasets/snow2day/image/000036_r (148).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (149).jpg",
+    "mydatasets/snow2day/image/000036_r (149).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (15).jpg",
+    "mydatasets/snow2day/image/000036_r (15).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (150).jpg",
+    "mydatasets/snow2day/image/000036_r (150).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (151).jpg",
+    "mydatasets/snow2day/image/000036_r (151).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (152).jpg",
+    "mydatasets/snow2day/image/000036_r (152).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (153).jpg",
+    "mydatasets/snow2day/image/000036_r (153).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (154).jpg",
+    "mydatasets/snow2day/image/000036_r (154).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (155).jpg",
+    "mydatasets/snow2day/image/000036_r (155).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (156).jpg",
+    "mydatasets/snow2day/image/000036_r (156).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (157).jpg",
+    "mydatasets/snow2day/image/000036_r (157).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (158).jpg",
+    "mydatasets/snow2day/image/000036_r (158).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (159).jpg",
+    "mydatasets/snow2day/image/000036_r (159).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (16).jpg",
+    "mydatasets/snow2day/image/000036_r (16).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (160).jpg",
+    "mydatasets/snow2day/image/000036_r (160).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (161).jpg",
+    "mydatasets/snow2day/image/000036_r (161).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (162).jpg",
+    "mydatasets/snow2day/image/000036_r (162).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (163).jpg",
+    "mydatasets/snow2day/image/000036_r (163).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (164).jpg",
+    "mydatasets/snow2day/image/000036_r (164).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (17).jpg",
+    "mydatasets/snow2day/image/000036_r (17).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (18).jpg",
+    "mydatasets/snow2day/image/000036_r (18).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (18)_1.jpg",
+    "mydatasets/snow2day/image/000036_r (18)_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (18)_1_1.jpg",
+    "mydatasets/snow2day/image/000036_r (18)_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (18)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (18)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (18)_3_1.jpg",
+    "mydatasets/snow2day/image/000036_r (18)_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (18)_3_1_3.jpg",
+    "mydatasets/snow2day/image/000036_r (18)_3_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (19).jpg",
+    "mydatasets/snow2day/image/000036_r (19).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (2).jpg",
+    "mydatasets/snow2day/image/000036_r (2).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (20).jpg",
+    "mydatasets/snow2day/image/000036_r (20).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (21).jpg",
+    "mydatasets/snow2day/image/000036_r (21).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (23).jpg",
+    "mydatasets/snow2day/image/000036_r (23).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (24).jpg",
+    "mydatasets/snow2day/image/000036_r (24).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (24)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (24)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (25).jpg",
+    "mydatasets/snow2day/image/000036_r (25).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (25)_1.jpg",
+    "mydatasets/snow2day/image/000036_r (25)_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (25)_1_3.jpg",
+    "mydatasets/snow2day/image/000036_r (25)_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (25)_1_3_1.jpg",
+    "mydatasets/snow2day/image/000036_r (25)_1_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (25)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (25)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (25)_3_1.jpg",
+    "mydatasets/snow2day/image/000036_r (25)_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (26).jpg",
+    "mydatasets/snow2day/image/000036_r (26).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (28).jpg",
+    "mydatasets/snow2day/image/000036_r (28).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (29).jpg",
+    "mydatasets/snow2day/image/000036_r (29).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (29)_1.jpg",
+    "mydatasets/snow2day/image/000036_r (29)_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (29)_1_1.jpg",
+    "mydatasets/snow2day/image/000036_r (29)_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (29)_1_1_1.jpg",
+    "mydatasets/snow2day/image/000036_r (29)_1_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (29)_1_3.jpg",
+    "mydatasets/snow2day/image/000036_r (29)_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (29)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (29)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (29)_3_3.jpg",
+    "mydatasets/snow2day/image/000036_r (29)_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (3).jpg",
+    "mydatasets/snow2day/image/000036_r (3).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (30).jpg",
+    "mydatasets/snow2day/image/000036_r (30).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (31).jpg",
+    "mydatasets/snow2day/image/000036_r (31).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (31)_1.jpg",
+    "mydatasets/snow2day/image/000036_r (31)_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (32).jpg",
+    "mydatasets/snow2day/image/000036_r (32).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (32)_1.jpg",
+    "mydatasets/snow2day/image/000036_r (32)_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (32)_1_1.jpg",
+    "mydatasets/snow2day/image/000036_r (32)_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (32)_1_3.jpg",
+    "mydatasets/snow2day/image/000036_r (32)_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (32)_1_3_1.jpg",
+    "mydatasets/snow2day/image/000036_r (32)_1_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (32)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (32)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (35).jpg",
+    "mydatasets/snow2day/image/000036_r (35).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (36).jpg",
+    "mydatasets/snow2day/image/000036_r (36).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (37).jpg",
+    "mydatasets/snow2day/image/000036_r (37).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (38).jpg",
+    "mydatasets/snow2day/image/000036_r (38).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (38)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (38)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (38)_3_1.jpg",
+    "mydatasets/snow2day/image/000036_r (38)_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (38)_3_3.jpg",
+    "mydatasets/snow2day/image/000036_r (38)_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (38)_3_3_3.jpg",
+    "mydatasets/snow2day/image/000036_r (38)_3_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (39).jpg",
+    "mydatasets/snow2day/image/000036_r (39).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (4).jpg",
+    "mydatasets/snow2day/image/000036_r (4).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (41).jpg",
+    "mydatasets/snow2day/image/000036_r (41).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (42).jpg",
+    "mydatasets/snow2day/image/000036_r (42).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (45).jpg",
+    "mydatasets/snow2day/image/000036_r (45).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (46).jpg",
+    "mydatasets/snow2day/image/000036_r (46).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (47).jpg",
+    "mydatasets/snow2day/image/000036_r (47).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (48).jpg",
+    "mydatasets/snow2day/image/000036_r (48).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (49).jpg",
+    "mydatasets/snow2day/image/000036_r (49).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (5).jpg",
+    "mydatasets/snow2day/image/000036_r (5).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (50).jpg",
+    "mydatasets/snow2day/image/000036_r (50).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (51).jpg",
+    "mydatasets/snow2day/image/000036_r (51).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (52).jpg",
+    "mydatasets/snow2day/image/000036_r (52).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (53).jpg",
+    "mydatasets/snow2day/image/000036_r (53).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (54).jpg",
+    "mydatasets/snow2day/image/000036_r (54).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (55).jpg",
+    "mydatasets/snow2day/image/000036_r (55).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (56).jpg",
+    "mydatasets/snow2day/image/000036_r (56).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (57).jpg",
+    "mydatasets/snow2day/image/000036_r (57).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (58).jpg",
+    "mydatasets/snow2day/image/000036_r (58).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (58)_1.jpg",
+    "mydatasets/snow2day/image/000036_r (58)_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (59).jpg",
+    "mydatasets/snow2day/image/000036_r (59).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (59)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (59)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (6).jpg",
+    "mydatasets/snow2day/image/000036_r (6).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (60).jpg",
+    "mydatasets/snow2day/image/000036_r (60).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (60)_1.jpg",
+    "mydatasets/snow2day/image/000036_r (60)_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (61).jpg",
+    "mydatasets/snow2day/image/000036_r (61).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (7).jpg",
+    "mydatasets/snow2day/image/000036_r (7).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (76).jpg",
+    "mydatasets/snow2day/image/000036_r (76).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (77).jpg",
+    "mydatasets/snow2day/image/000036_r (77).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (78).jpg",
+    "mydatasets/snow2day/image/000036_r (78).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (79).jpg",
+    "mydatasets/snow2day/image/000036_r (79).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (79)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (79)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (8).jpg",
+    "mydatasets/snow2day/image/000036_r (8).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (80).jpg",
+    "mydatasets/snow2day/image/000036_r (80).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (81).jpg",
+    "mydatasets/snow2day/image/000036_r (81).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (82).jpg",
+    "mydatasets/snow2day/image/000036_r (82).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (83).jpg",
+    "mydatasets/snow2day/image/000036_r (83).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (84).jpg",
+    "mydatasets/snow2day/image/000036_r (84).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (85).jpg",
+    "mydatasets/snow2day/image/000036_r (85).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (86).jpg",
+    "mydatasets/snow2day/image/000036_r (86).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (87).jpg",
+    "mydatasets/snow2day/image/000036_r (87).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (88).jpg",
+    "mydatasets/snow2day/image/000036_r (88).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (89).jpg",
+    "mydatasets/snow2day/image/000036_r (89).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (9).jpg",
+    "mydatasets/snow2day/image/000036_r (9).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (91).jpg",
+    "mydatasets/snow2day/image/000036_r (91).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (92).jpg",
+    "mydatasets/snow2day/image/000036_r (92).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (92)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (92)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (93).jpg",
+    "mydatasets/snow2day/image/000036_r (93).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (94).jpg",
+    "mydatasets/snow2day/image/000036_r (94).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (95).jpg",
+    "mydatasets/snow2day/image/000036_r (95).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (96).jpg",
+    "mydatasets/snow2day/image/000036_r (96).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (97).jpg",
+    "mydatasets/snow2day/image/000036_r (97).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (97)_3.jpg",
+    "mydatasets/snow2day/image/000036_r (97)_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (98).jpg",
+    "mydatasets/snow2day/image/000036_r (98).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/000036_r (99).jpg",
+    "mydatasets/snow2day/image/000036_r (99).jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00003_3.jpg",
+    "mydatasets/snow2day/image/00003_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00004.jpg",
+    "mydatasets/snow2day/image/00004.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00005.jpg",
+    "mydatasets/snow2day/image/00005.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00006.jpg",
+    "mydatasets/snow2day/image/00006.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00006_3.jpg",
+    "mydatasets/snow2day/image/00006_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00006_3_3.jpg",
+    "mydatasets/snow2day/image/00006_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00006_3_3_3.jpg",
+    "mydatasets/snow2day/image/00006_3_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00007.jpg",
+    "mydatasets/snow2day/image/00007.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00008.jpg",
+    "mydatasets/snow2day/image/00008.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00009.jpg",
+    "mydatasets/snow2day/image/00009.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00010.jpg",
+    "mydatasets/snow2day/image/00010.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00010_1.jpg",
+    "mydatasets/snow2day/image/00010_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00011.jpg",
+    "mydatasets/snow2day/image/00011.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00012.jpg",
+    "mydatasets/snow2day/image/00012.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00012_3.jpg",
+    "mydatasets/snow2day/image/00012_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00013.jpg",
+    "mydatasets/snow2day/image/00013.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00014.jpg",
+    "mydatasets/snow2day/image/00014.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00015.jpg",
+    "mydatasets/snow2day/image/00015.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00015_1.jpg",
+    "mydatasets/snow2day/image/00015_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00015_1_1.jpg",
+    "mydatasets/snow2day/image/00015_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00015_3.jpg",
+    "mydatasets/snow2day/image/00015_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00016.jpg",
+    "mydatasets/snow2day/image/00016.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00017.jpg",
+    "mydatasets/snow2day/image/00017.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00018.jpg",
+    "mydatasets/snow2day/image/00018.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00019.jpg",
+    "mydatasets/snow2day/image/00019.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00019_1.jpg",
+    "mydatasets/snow2day/image/00019_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00019_1_3.jpg",
+    "mydatasets/snow2day/image/00019_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00019_1_3_1.jpg",
+    "mydatasets/snow2day/image/00019_1_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00019_3.jpg",
+    "mydatasets/snow2day/image/00019_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00020.jpg",
+    "mydatasets/snow2day/image/00020.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00022.jpg",
+    "mydatasets/snow2day/image/00022.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00023.jpg",
+    "mydatasets/snow2day/image/00023.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00024.jpg",
+    "mydatasets/snow2day/image/00024.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00024_3.jpg",
+    "mydatasets/snow2day/image/00024_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00025.jpg",
+    "mydatasets/snow2day/image/00025.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00025_1.jpg",
+    "mydatasets/snow2day/image/00025_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00025_1_1.jpg",
+    "mydatasets/snow2day/image/00025_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00025_1_1_1.jpg",
+    "mydatasets/snow2day/image/00025_1_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00025_3.jpg",
+    "mydatasets/snow2day/image/00025_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00026.jpg",
+    "mydatasets/snow2day/image/00026.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00026_1.jpg",
+    "mydatasets/snow2day/image/00026_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00027.jpg",
+    "mydatasets/snow2day/image/00027.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00027_1.jpg",
+    "mydatasets/snow2day/image/00027_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00027_1_1.jpg",
+    "mydatasets/snow2day/image/00027_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00027_3.jpg",
+    "mydatasets/snow2day/image/00027_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00028.jpg",
+    "mydatasets/snow2day/image/00028.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00028_3.jpg",
+    "mydatasets/snow2day/image/00028_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00029.jpg",
+    "mydatasets/snow2day/image/00029.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00029_1.jpg",
+    "mydatasets/snow2day/image/00029_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00029_3.jpg",
+    "mydatasets/snow2day/image/00029_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00029_3_3.jpg",
+    "mydatasets/snow2day/image/00029_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00030.jpg",
+    "mydatasets/snow2day/image/00030.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00030_1.jpg",
+    "mydatasets/snow2day/image/00030_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00030_1_1.jpg",
+    "mydatasets/snow2day/image/00030_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00031.jpg",
+    "mydatasets/snow2day/image/00031.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00031_1.jpg",
+    "mydatasets/snow2day/image/00031_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00031_1_1.jpg",
+    "mydatasets/snow2day/image/00031_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00033.jpg",
+    "mydatasets/snow2day/image/00033.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00034.jpg",
+    "mydatasets/snow2day/image/00034.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00034_3.jpg",
+    "mydatasets/snow2day/image/00034_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00035.jpg",
+    "mydatasets/snow2day/image/00035.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00036.jpg",
+    "mydatasets/snow2day/image/00036.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00036_1.jpg",
+    "mydatasets/snow2day/image/00036_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00036_1_1.jpg",
+    "mydatasets/snow2day/image/00036_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00036_3.jpg",
+    "mydatasets/snow2day/image/00036_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00036_3_3.jpg",
+    "mydatasets/snow2day/image/00036_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00037.jpg",
+    "mydatasets/snow2day/image/00037.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00038.jpg",
+    "mydatasets/snow2day/image/00038.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00039.jpg",
+    "mydatasets/snow2day/image/00039.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00040.jpg",
+    "mydatasets/snow2day/image/00040.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00041.jpg",
+    "mydatasets/snow2day/image/00041.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00041_1.jpg",
+    "mydatasets/snow2day/image/00041_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00041_1_3.jpg",
+    "mydatasets/snow2day/image/00041_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00042.jpg",
+    "mydatasets/snow2day/image/00042.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00044.jpg",
+    "mydatasets/snow2day/image/00044.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00044_3.jpg",
+    "mydatasets/snow2day/image/00044_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00044_3_3.jpg",
+    "mydatasets/snow2day/image/00044_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00045.jpg",
+    "mydatasets/snow2day/image/00045.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00046.jpg",
+    "mydatasets/snow2day/image/00046.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00046_1.jpg",
+    "mydatasets/snow2day/image/00046_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00047.jpg",
+    "mydatasets/snow2day/image/00047.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00048.jpg",
+    "mydatasets/snow2day/image/00048.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00049.jpg",
+    "mydatasets/snow2day/image/00049.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00049_3.jpg",
+    "mydatasets/snow2day/image/00049_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00049_3_3.jpg",
+    "mydatasets/snow2day/image/00049_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00050.jpg",
+    "mydatasets/snow2day/image/00050.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00050_3.jpg",
+    "mydatasets/snow2day/image/00050_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00051.jpg",
+    "mydatasets/snow2day/image/00051.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00052.jpg",
+    "mydatasets/snow2day/image/00052.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00052_1.jpg",
+    "mydatasets/snow2day/image/00052_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00052_3.jpg",
+    "mydatasets/snow2day/image/00052_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00052_3_3.jpg",
+    "mydatasets/snow2day/image/00052_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00053.jpg",
+    "mydatasets/snow2day/image/00053.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00053_1.jpg",
+    "mydatasets/snow2day/image/00053_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00053_3.jpg",
+    "mydatasets/snow2day/image/00053_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00053_3_1.jpg",
+    "mydatasets/snow2day/image/00053_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00054.jpg",
+    "mydatasets/snow2day/image/00054.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00055.jpg",
+    "mydatasets/snow2day/image/00055.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00056.jpg",
+    "mydatasets/snow2day/image/00056.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00057.jpg",
+    "mydatasets/snow2day/image/00057.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00057_1.jpg",
+    "mydatasets/snow2day/image/00057_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00058.jpg",
+    "mydatasets/snow2day/image/00058.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00058_3.jpg",
+    "mydatasets/snow2day/image/00058_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00059.jpg",
+    "mydatasets/snow2day/image/00059.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00060.jpg",
+    "mydatasets/snow2day/image/00060.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00061.jpg",
+    "mydatasets/snow2day/image/00061.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00062.jpg",
+    "mydatasets/snow2day/image/00062.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00063.jpg",
+    "mydatasets/snow2day/image/00063.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00063_3.jpg",
+    "mydatasets/snow2day/image/00063_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00064.jpg",
+    "mydatasets/snow2day/image/00064.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00065.jpg",
+    "mydatasets/snow2day/image/00065.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00065_3.jpg",
+    "mydatasets/snow2day/image/00065_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00066.jpg",
+    "mydatasets/snow2day/image/00066.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00067.jpg",
+    "mydatasets/snow2day/image/00067.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00068.jpg",
+    "mydatasets/snow2day/image/00068.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00069.jpg",
+    "mydatasets/snow2day/image/00069.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00070.jpg",
+    "mydatasets/snow2day/image/00070.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00070_1.jpg",
+    "mydatasets/snow2day/image/00070_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00070_3.jpg",
+    "mydatasets/snow2day/image/00070_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00070_3_3.jpg",
+    "mydatasets/snow2day/image/00070_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00071.jpg",
+    "mydatasets/snow2day/image/00071.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00072.jpg",
+    "mydatasets/snow2day/image/00072.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00072_3.jpg",
+    "mydatasets/snow2day/image/00072_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00073.jpg",
+    "mydatasets/snow2day/image/00073.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00073_1.jpg",
+    "mydatasets/snow2day/image/00073_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00074.jpg",
+    "mydatasets/snow2day/image/00074.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00075.jpg",
+    "mydatasets/snow2day/image/00075.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00075_1.jpg",
+    "mydatasets/snow2day/image/00075_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00076.jpg",
+    "mydatasets/snow2day/image/00076.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00077.jpg",
+    "mydatasets/snow2day/image/00077.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00078.jpg",
+    "mydatasets/snow2day/image/00078.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00078_1.jpg",
+    "mydatasets/snow2day/image/00078_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00078_1_1.jpg",
+    "mydatasets/snow2day/image/00078_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00078_3.jpg",
+    "mydatasets/snow2day/image/00078_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00079.jpg",
+    "mydatasets/snow2day/image/00079.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00080.jpg",
+    "mydatasets/snow2day/image/00080.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00080_1.jpg",
+    "mydatasets/snow2day/image/00080_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00081.jpg",
+    "mydatasets/snow2day/image/00081.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00081_1.jpg",
+    "mydatasets/snow2day/image/00081_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00081_1_1.jpg",
+    "mydatasets/snow2day/image/00081_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00081_3.jpg",
+    "mydatasets/snow2day/image/00081_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00082.jpg",
+    "mydatasets/snow2day/image/00082.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00083.jpg",
+    "mydatasets/snow2day/image/00083.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00084.jpg",
+    "mydatasets/snow2day/image/00084.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00084_3.jpg",
+    "mydatasets/snow2day/image/00084_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00084_3_1.jpg",
+    "mydatasets/snow2day/image/00084_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00085.jpg",
+    "mydatasets/snow2day/image/00085.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00086.jpg",
+    "mydatasets/snow2day/image/00086.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00086_1.jpg",
+    "mydatasets/snow2day/image/00086_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00086_1_1.jpg",
+    "mydatasets/snow2day/image/00086_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00086_1_3.jpg",
+    "mydatasets/snow2day/image/00086_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00086_1_3_3.jpg",
+    "mydatasets/snow2day/image/00086_1_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00086_3.jpg",
+    "mydatasets/snow2day/image/00086_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00086_3_3.jpg",
+    "mydatasets/snow2day/image/00086_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00087.jpg",
+    "mydatasets/snow2day/image/00087.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00088.jpg",
+    "mydatasets/snow2day/image/00088.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00088_3.jpg",
+    "mydatasets/snow2day/image/00088_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00089.jpg",
+    "mydatasets/snow2day/image/00089.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00090.jpg",
+    "mydatasets/snow2day/image/00090.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00090_1.jpg",
+    "mydatasets/snow2day/image/00090_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00090_1_1.jpg",
+    "mydatasets/snow2day/image/00090_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00091.jpg",
+    "mydatasets/snow2day/image/00091.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00092.jpg",
+    "mydatasets/snow2day/image/00092.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00094.jpg",
+    "mydatasets/snow2day/image/00094.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00094_1.jpg",
+    "mydatasets/snow2day/image/00094_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00094_1_3.jpg",
+    "mydatasets/snow2day/image/00094_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00095.jpg",
+    "mydatasets/snow2day/image/00095.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00096.jpg",
+    "mydatasets/snow2day/image/00096.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00097.jpg",
+    "mydatasets/snow2day/image/00097.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00098.jpg",
+    "mydatasets/snow2day/image/00098.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00099.jpg",
+    "mydatasets/snow2day/image/00099.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00099_1.jpg",
+    "mydatasets/snow2day/image/00099_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00099_3.jpg",
+    "mydatasets/snow2day/image/00099_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00099_3_3.jpg",
+    "mydatasets/snow2day/image/00099_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00100.jpg",
+    "mydatasets/snow2day/image/00100.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00100_3.jpg",
+    "mydatasets/snow2day/image/00100_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00100_3_3.jpg",
+    "mydatasets/snow2day/image/00100_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00101.jpg",
+    "mydatasets/snow2day/image/00101.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00101_1.jpg",
+    "mydatasets/snow2day/image/00101_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00101_1_1.jpg",
+    "mydatasets/snow2day/image/00101_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00101_1_1_3.jpg",
+    "mydatasets/snow2day/image/00101_1_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00101_1_3.jpg",
+    "mydatasets/snow2day/image/00101_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00101_1_3_1.jpg",
+    "mydatasets/snow2day/image/00101_1_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00101_1_3_1_3.jpg",
+    "mydatasets/snow2day/image/00101_1_3_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00101_1_3_3.jpg",
+    "mydatasets/snow2day/image/00101_1_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00102.jpg",
+    "mydatasets/snow2day/image/00102.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00103.jpg",
+    "mydatasets/snow2day/image/00103.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00103_1.jpg",
+    "mydatasets/snow2day/image/00103_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00103_1_3.jpg",
+    "mydatasets/snow2day/image/00103_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00103_3.jpg",
+    "mydatasets/snow2day/image/00103_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00104.jpg",
+    "mydatasets/snow2day/image/00104.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00105.jpg",
+    "mydatasets/snow2day/image/00105.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00106.jpg",
+    "mydatasets/snow2day/image/00106.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00107.jpg",
+    "mydatasets/snow2day/image/00107.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00108.jpg",
+    "mydatasets/snow2day/image/00108.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00109.jpg",
+    "mydatasets/snow2day/image/00109.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00109_1.jpg",
+    "mydatasets/snow2day/image/00109_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00109_1_3.jpg",
+    "mydatasets/snow2day/image/00109_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00110.jpg",
+    "mydatasets/snow2day/image/00110.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00111.jpg",
+    "mydatasets/snow2day/image/00111.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00111_3.jpg",
+    "mydatasets/snow2day/image/00111_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00111_3_1.jpg",
+    "mydatasets/snow2day/image/00111_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00111_3_1_3.jpg",
+    "mydatasets/snow2day/image/00111_3_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00112.jpg",
+    "mydatasets/snow2day/image/00112.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00113.jpg",
+    "mydatasets/snow2day/image/00113.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00113_1.jpg",
+    "mydatasets/snow2day/image/00113_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00113_1_1.jpg",
+    "mydatasets/snow2day/image/00113_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00113_1_1_1.jpg",
+    "mydatasets/snow2day/image/00113_1_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00114.jpg",
+    "mydatasets/snow2day/image/00114.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00114_1.jpg",
+    "mydatasets/snow2day/image/00114_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00114_3.jpg",
+    "mydatasets/snow2day/image/00114_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00114_3_3.jpg",
+    "mydatasets/snow2day/image/00114_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00115.jpg",
+    "mydatasets/snow2day/image/00115.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00116.jpg",
+    "mydatasets/snow2day/image/00116.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00116_1.jpg",
+    "mydatasets/snow2day/image/00116_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00117.jpg",
+    "mydatasets/snow2day/image/00117.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00117_1.jpg",
+    "mydatasets/snow2day/image/00117_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00118.jpg",
+    "mydatasets/snow2day/image/00118.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00119.jpg",
+    "mydatasets/snow2day/image/00119.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00119_3.jpg",
+    "mydatasets/snow2day/image/00119_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00120.jpg",
+    "mydatasets/snow2day/image/00120.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00121.jpg",
+    "mydatasets/snow2day/image/00121.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00121_3.jpg",
+    "mydatasets/snow2day/image/00121_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00121_3_1.jpg",
+    "mydatasets/snow2day/image/00121_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00121_3_3.jpg",
+    "mydatasets/snow2day/image/00121_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00122.jpg",
+    "mydatasets/snow2day/image/00122.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00123.jpg",
+    "mydatasets/snow2day/image/00123.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00123_1.jpg",
+    "mydatasets/snow2day/image/00123_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00123_1_3.jpg",
+    "mydatasets/snow2day/image/00123_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00123_1_3_1.jpg",
+    "mydatasets/snow2day/image/00123_1_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00123_3.jpg",
+    "mydatasets/snow2day/image/00123_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00124.jpg",
+    "mydatasets/snow2day/image/00124.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00125.jpg",
+    "mydatasets/snow2day/image/00125.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00126.jpg",
+    "mydatasets/snow2day/image/00126.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00127.jpg",
+    "mydatasets/snow2day/image/00127.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00127_3.jpg",
+    "mydatasets/snow2day/image/00127_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00128.jpg",
+    "mydatasets/snow2day/image/00128.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00128_1.jpg",
+    "mydatasets/snow2day/image/00128_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00128_1_1.jpg",
+    "mydatasets/snow2day/image/00128_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00129.jpg",
+    "mydatasets/snow2day/image/00129.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00130.jpg",
+    "mydatasets/snow2day/image/00130.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00131.jpg",
+    "mydatasets/snow2day/image/00131.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00131_1.jpg",
+    "mydatasets/snow2day/image/00131_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00131_1_1.jpg",
+    "mydatasets/snow2day/image/00131_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00131_3.jpg",
+    "mydatasets/snow2day/image/00131_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00132.jpg",
+    "mydatasets/snow2day/image/00132.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00133.jpg",
+    "mydatasets/snow2day/image/00133.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00134.jpg",
+    "mydatasets/snow2day/image/00134.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00134_1.jpg",
+    "mydatasets/snow2day/image/00134_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00135.jpg",
+    "mydatasets/snow2day/image/00135.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00135_1.jpg",
+    "mydatasets/snow2day/image/00135_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00135_1_3.jpg",
+    "mydatasets/snow2day/image/00135_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00135_1_3_1.jpg",
+    "mydatasets/snow2day/image/00135_1_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00135_3.jpg",
+    "mydatasets/snow2day/image/00135_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00135_3_1.jpg",
+    "mydatasets/snow2day/image/00135_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00136.jpg",
+    "mydatasets/snow2day/image/00136.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00137.jpg",
+    "mydatasets/snow2day/image/00137.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00138.jpg",
+    "mydatasets/snow2day/image/00138.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00139.jpg",
+    "mydatasets/snow2day/image/00139.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00140.jpg",
+    "mydatasets/snow2day/image/00140.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00140_3.jpg",
+    "mydatasets/snow2day/image/00140_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00141.jpg",
+    "mydatasets/snow2day/image/00141.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00142.jpg",
+    "mydatasets/snow2day/image/00142.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00142_1.jpg",
+    "mydatasets/snow2day/image/00142_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00143.jpg",
+    "mydatasets/snow2day/image/00143.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00144.jpg",
+    "mydatasets/snow2day/image/00144.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145.jpg",
+    "mydatasets/snow2day/image/00145.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_1.jpg",
+    "mydatasets/snow2day/image/00145_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_1_3.jpg",
+    "mydatasets/snow2day/image/00145_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_3.jpg",
+    "mydatasets/snow2day/image/00145_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_3_1.jpg",
+    "mydatasets/snow2day/image/00145_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_3_1_3.jpg",
+    "mydatasets/snow2day/image/00145_3_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_3_1_3_3.jpg",
+    "mydatasets/snow2day/image/00145_3_1_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_3_3.jpg",
+    "mydatasets/snow2day/image/00145_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_3_3_1.jpg",
+    "mydatasets/snow2day/image/00145_3_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_3_3_1_3.jpg",
+    "mydatasets/snow2day/image/00145_3_3_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_3_3_3.jpg",
+    "mydatasets/snow2day/image/00145_3_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_3_3_3_3.jpg",
+    "mydatasets/snow2day/image/00145_3_3_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00145_3_3_3_3_1.jpg",
+    "mydatasets/snow2day/image/00145_3_3_3_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00146.jpg",
+    "mydatasets/snow2day/image/00146.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00147.jpg",
+    "mydatasets/snow2day/image/00147.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00148.jpg",
+    "mydatasets/snow2day/image/00148.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00149.jpg",
+    "mydatasets/snow2day/image/00149.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00149_3.jpg",
+    "mydatasets/snow2day/image/00149_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00150.jpg",
+    "mydatasets/snow2day/image/00150.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00151.jpg",
+    "mydatasets/snow2day/image/00151.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00151_1.jpg",
+    "mydatasets/snow2day/image/00151_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00152.jpg",
+    "mydatasets/snow2day/image/00152.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00153.jpg",
+    "mydatasets/snow2day/image/00153.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00153_1.jpg",
+    "mydatasets/snow2day/image/00153_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00154.jpg",
+    "mydatasets/snow2day/image/00154.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00155.jpg",
+    "mydatasets/snow2day/image/00155.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00156.jpg",
+    "mydatasets/snow2day/image/00156.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00156_3.jpg",
+    "mydatasets/snow2day/image/00156_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00156_3_1.jpg",
+    "mydatasets/snow2day/image/00156_3_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00157.jpg",
+    "mydatasets/snow2day/image/00157.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00157_1.jpg",
+    "mydatasets/snow2day/image/00157_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00158.jpg",
+    "mydatasets/snow2day/image/00158.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00158_1.jpg",
+    "mydatasets/snow2day/image/00158_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00159.jpg",
+    "mydatasets/snow2day/image/00159.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00159_3.jpg",
+    "mydatasets/snow2day/image/00159_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00159_3_3.jpg",
+    "mydatasets/snow2day/image/00159_3_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00160.jpg",
+    "mydatasets/snow2day/image/00160.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00161.jpg",
+    "mydatasets/snow2day/image/00161.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00162.jpg",
+    "mydatasets/snow2day/image/00162.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00162_1.jpg",
+    "mydatasets/snow2day/image/00162_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00162_1_1.jpg",
+    "mydatasets/snow2day/image/00162_1_1.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00162_1_3.jpg",
+    "mydatasets/snow2day/image/00162_1_3.jpg"
+  ],
+  [
+    "mydatasets/fog2day/label/00162_1_3_3.jpg",
+    "mydatasets/snow2day/image/00162_1_3_3.jpg"
+  ]
+]
